@@ -1,13 +1,13 @@
 ### Hi there 👏
 I'm a Full Stack Developer at **Future Link Corporation**.
 
-#### What I'm intrested
+#### Things that I'm intrested:
 -   Machine Learning    💻 
 -   DevOps fundamentals 🐳 
 -   Cloud Architecture fundamentals ☁️ 
 -   Mobile Development fundamentals 📱
 
-#### Things that i like:
+#### Things that I like:
 -   Guitar Playing  🎸
 -   Nintendo Switch 🎮 
 -   My friends  👍 
