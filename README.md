@@ -1,5 +1,5 @@
 ### Hi there 👏
-I'm a Full Stack Developer at **Future Link Corporation**.
+I'm a Full Stack Developer at **The Furniture Guys** and **Future Link Corporation**.
 
 #### Things that I'm intrested:
 -   Machine Learning    💻 
