@@ -1,7 +1,7 @@
 ### Hi there 👏
 I'm a Full Stack Developer at **The Furniture Guys**.
 
-#### Things that I'm intrested:
+#### Things that I'm interested:
 -   Machine Learning    💻 
 -   DevOps fundamentals 🐳 
 -   Cloud Architecture fundamentals ☁️ 
